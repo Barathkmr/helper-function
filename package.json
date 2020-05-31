@@ -1,0 +1,19 @@
+{
+  "name": "helper-function",
+  "version": "1.0.0",
+  "description": "A package that includes almost all the helper functions that is needed which includes the regex operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barathkmr/helper-function.git"
+  },
+  "author": "Barath Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Barathkmr/helper-function/issues"
+  },
+  "homepage": "https://github.com/Barathkmr/helper-function#readme"
+}

@@ -1,2 +1,2 @@
 # helper-function
-A package that icludes almost all the helper functions that is needed which in includes the regex operations
+A package that includes almost all the helper functions that is needed which includes the regex operations
